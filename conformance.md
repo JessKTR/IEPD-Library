@@ -22,7 +22,7 @@ The [NIEM-MPD 3.0](http://reference.niem.gov/niem/specification/naming-and-desig
 <div class="col-md-3 col-md-pull-9">
   <div class="section-nav list-group">
     <a class="list-group-item" href="index.html">IEPD Library</a>
-    <a class="list-group-item" href="https://github.com/jtmrice/Template-IEPD">NIEM Template IEPD</a>
+    <a class="list-group-item" href="https://github.com/NIEM/Template-IEPD">NIEM Template IEPD</a>
     <a class="list-group-item active" href="conformance.html">Conformance Validation</a>
     <a class="list-group-item" href="search.html">Search IEPDs</a>
   </div>

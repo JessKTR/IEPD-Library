@@ -30,7 +30,7 @@ NOTE: Information exchange relies on many capabilities—NIEM provides a solid s
       </span>
     </div>
     <div class="media-body">
-      <h4 class="media-heading" style="margin-top:15px"><a href="https://github.com/jtmrice/Template-IEPD/">Template IEPD</a></h4>
+      <h4 class="media-heading" style="margin-top:15px"><a href="https://github.com/NIEM/Template-IEPD/">Template IEPD</a></h4>
     </div>
   </div>
   <div class="media">
@@ -65,7 +65,7 @@ NOTE: Information exchange relies on many capabilities—NIEM provides a solid s
 <div class="col-md-3 col-md-pull-9">
   <div class="section-nav list-group">
     <a class="list-group-item active" href="#">IEPD Library</a>
-    <a class="list-group-item" href="https://github.com/jtmrice/Template-IEPD">NIEM Template IEPD</a>
+    <a class="list-group-item" href="https://github.com/NIEM/Template-IEPD">NIEM Template IEPD</a>
     <a class="list-group-item" href="conformance.html">Conformance Validation</a>
     <a class="list-group-item" href="search.html">Search IEPDs</a>
   </div>

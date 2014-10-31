@@ -21,7 +21,7 @@ Search functionality will allow users to find IEPDs in GitHub. This functionalit
 <div class="col-md-3 col-md-pull-9">
   <div class="section-nav list-group">
     <a class="list-group-item" href="index.html">IEPD Library</a>
-    <a class="list-group-item" href="https://github.com/jtmrice/Template-IEPD">NIEM Template IEPD</a>
+    <a class="list-group-item" href="https://github.com/NIEM/Template-IEPD">NIEM Template IEPD</a>
     <a class="list-group-item" href="conformance.html">Conformance Validation</a>
     <a class="list-group-item active" href="search.html">Search IEPDs</a>
   </div>
