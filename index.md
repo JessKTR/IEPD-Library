@@ -17,7 +17,7 @@ In an era when return on investment has never been more important to government 
 
 Be sure to check out the **[NIEM Cost Model](https://niem.gov/aboutniem/roadmap/Pages/cost-model.aspx)**, which allows users to quantify the associated costs of adopting NIEM.
 
-NOTE: Information exchange relies on many capabilities—NIEM provides a solid starting point. You rarely ever use NIEM by itself. Depending on business requirements, there are other aspects of information exchange implementations that are required, including access controls, policy automation, transmission protocol, and others. This is why the **[NIEM Implementation Cookbook](http://NIEM.github.io/Implementation-Cookbook)** was created!
+NOTE: Information exchange relies on many capabilities—NIEM provides a solid starting point. You rarely ever use NIEM by itself. Depending on business requirements, there are other aspects of information exchange implementations that are required, including access controls, policy automation, transmission protocol, and others. This is why the **[NIEM Implementation Cookbook](http://NIEM.github.io/implementation-cookbook/)** was created!
 
 
 <!-- icon menu -->
